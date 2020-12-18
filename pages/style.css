@@ -11,4 +11,5 @@
 
 @import url(../blocks/popup/popup.css);
 @import url(../blocks/card/card.css);
-
+@import url(../blocks/page-events/page-events.css);
+@import url(../blocks/elements/elements.css);
