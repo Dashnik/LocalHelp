@@ -2,8 +2,14 @@
 @import url("./__subtitle/events__subtitle.css");
 @import url("./__container/events__container.css");
 
-.events {
+/* .events {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+} */
+
+.events {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
